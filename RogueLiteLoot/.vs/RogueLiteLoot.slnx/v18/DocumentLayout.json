@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E402EA-EDE8-4584-A755-E74952C6208B}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\thymu\\documents\\repositories\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E402EA-EDE8-4584-A755-E74952C6208B}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Program.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\Program.cs",
+              "ToolTip": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Program.cs",
+              "RelativeToolTip": "RogueLiteLoot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:18:46.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
