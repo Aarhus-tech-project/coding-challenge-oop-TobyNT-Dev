@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8E402EA-EDE8-4584-A755-E74952C6208B}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\thymu\\documents\\repositories\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E402EA-EDE8-4584-A755-E74952C6208B}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\thymu\\documents\\repositories\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\loot types\\strengthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\loot types\\strengthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\thymu\\documents\\repositories\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\loot types\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\loot types\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\thymu\\documents\\repositories\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\thymu\\documents\\repositories\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\loot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\loot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\thymu\\documents\\repositories\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\rogueliteloot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\rogueliteloot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\thymu\\documents\\repositories\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StrengthPotion.cs",
+              "DocumentMoniker": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Loot types\\StrengthPotion.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\Loot types\\StrengthPotion.cs",
+              "ToolTip": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Loot types\\StrengthPotion.cs",
+              "RelativeToolTip": "RogueLiteLoot\\Loot types\\StrengthPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:12:05.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RogueLiteLoot",
+              "DocumentMoniker": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\RogueLiteLoot.csproj",
+              "ToolTip": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj",
+              "RelativeToolTip": "RogueLiteLoot\\RogueLiteLoot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T11:54:18.107Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "HealthPotion.cs",
+              "DocumentMoniker": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Loot types\\HealthPotion.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\Loot types\\HealthPotion.cs",
+              "ToolTip": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Loot types\\HealthPotion.cs",
+              "RelativeToolTip": "RogueLiteLoot\\Loot types\\HealthPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:54:33.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Character.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\Character.cs",
+              "ToolTip": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Character.cs",
+              "RelativeToolTip": "RogueLiteLoot\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:38:51.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loot.cs",
+              "DocumentMoniker": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Loot.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\Loot.cs",
+              "ToolTip": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Loot.cs",
+              "RelativeToolTip": "RogueLiteLoot\\Loot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:36:45.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Program.cs",
               "RelativeDocumentMoniker": "RogueLiteLoot\\Program.cs",
               "ToolTip": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Program.cs",
               "RelativeToolTip": "RogueLiteLoot\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T13:18:46.581Z",
               "EditorCaption": ""
