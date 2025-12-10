@@ -1,0 +1,15 @@
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\bin\Debug\net10.0\RogueLiteLoot.exe
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\bin\Debug\net10.0\RogueLiteLoot.deps.json
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\bin\Debug\net10.0\RogueLiteLoot.runtimeconfig.json
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\bin\Debug\net10.0\RogueLiteLoot.dll
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\bin\Debug\net10.0\RogueLiteLoot.pdb
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\RogueLiteLoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\RogueLiteLoot.AssemblyInfoInputs.cache
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\RogueLiteLoot.AssemblyInfo.cs
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\RogueLiteLoot.csproj.CoreCompileInputs.cache
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\RogueLiteLoot.sourcelink.json
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\RogueLiteLoot.dll
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\refint\RogueLiteLoot.dll
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\RogueLiteLoot.pdb
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\RogueLiteLoot.genruntimeconfig.cache
+C:\Users\thymu\Documents\Repositories\coding-challenge-oop-TobyNT-Dev\RogueLiteLoot\RogueLiteLoot\obj\Debug\net10.0\ref\RogueLiteLoot.dll
