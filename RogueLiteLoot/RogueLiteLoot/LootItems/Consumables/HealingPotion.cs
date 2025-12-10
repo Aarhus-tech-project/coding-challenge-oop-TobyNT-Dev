@@ -16,7 +16,7 @@ namespace RogueLiteLoot.LootItems.Consumables
         {
             character.healthPoints += Potency;
             NumberOfUses--;
-
+            if (NumberOfUses < 1) character.inventory.Remove(this);
             return $"Health Potion was used by {character.name}, and healed {Potency} HP!";
         }
     }

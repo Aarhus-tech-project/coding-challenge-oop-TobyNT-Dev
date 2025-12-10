@@ -21,19 +21,18 @@ namespace RogueLiteLoot.LootItems.Wearables
                 {
                     character.inventory.Add(character.cosmeticApparel);
 
-                    character.cosmeticApparel = this;
-                    character.cosmeticApparel = null;
+                    character.armor = 0;
+                    character.armorWorn = null;
                 }
                 else
                 {
-                    //replace allready worn cosmetic with new, and send old to inventory
+                    //send old cosmetic to inventory
                     character.inventory.Add(character.cosmeticApparel);
-
-                    character.cosmeticApparel = this;
-
                 }
             }
-
+            character.fashionRating = FashionRating;
+            character.cosmeticApparel = this;
+            character.inventory.Remove(this);
             return $"{character.name}, Equipped {Name}, which had {FashionRating} Fashion Rating!";
         }
     }

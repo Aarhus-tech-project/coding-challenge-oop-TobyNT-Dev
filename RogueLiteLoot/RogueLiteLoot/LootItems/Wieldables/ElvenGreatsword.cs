@@ -14,15 +14,17 @@ namespace RogueLiteLoot.LootItems.Wieldables
 
         public override string ApplyEffect(Character character)
         {
+            // if player has something equipped, then move that back to inventory, and then equip
             if (character.heldWeapon != null)
             {
                 character.inventory.Add(character.heldWeapon);
 
-                character.heldWeapon = this;
             }
-
+            character.heldWeapon = this;
+            character.inventory.Remove(this);
             character.meleeDamage = Damage;
-
+            character.magicDamage = 0;
+            character.rangedDamage = 0;
             return $"{character.name} equipped the {Name} which has {Damage} Melee Damage!";
         }
     }

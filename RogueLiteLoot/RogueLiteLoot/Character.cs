@@ -24,6 +24,7 @@ namespace RogueLiteLoot
 
         public int armor = 0;
         public Loot? armorWorn = null;
+        public int fashionRating = 0;
         public Loot? cosmeticApparel = null;
 
         public int meleeDamage = 0;
@@ -129,8 +130,6 @@ namespace RogueLiteLoot
         public void Use(Loot loot)
         {
             string status = loot.ApplyEffect(this);
-
-            inventory.Remove(loot);
 
             Printer.UpdateStats(this, status);
         }

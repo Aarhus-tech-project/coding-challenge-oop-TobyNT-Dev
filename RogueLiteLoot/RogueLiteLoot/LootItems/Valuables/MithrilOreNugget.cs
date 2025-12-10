@@ -16,6 +16,7 @@ namespace RogueLiteLoot.LootItems.Valuables
         {
             character.goldCoins += ValueInGoldCoins;
 
+            character.inventory.Remove(this);
             return $"{character.name} sold his {Name}, and gained {ValueInGoldCoins} Gold Coins!";
         }
     }

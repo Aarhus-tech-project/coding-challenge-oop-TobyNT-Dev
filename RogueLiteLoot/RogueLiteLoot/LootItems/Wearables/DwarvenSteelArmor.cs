@@ -21,23 +21,18 @@ namespace RogueLiteLoot.LootItems.Wearables
                 if (character.armorWorn == character.cosmeticApparel)
                 {
                     character.inventory.Add(character.armorWorn);
-                    character.inventory.Add(character.cosmeticApparel);
 
-                    character.armor = ArmorRating;
-                    character.armorWorn = this;
+                    character.fashionRating = 0;
                     character.cosmeticApparel = null;
                 }
                 else
                 {
-                    //replace allready worn cosmetic with new, and send old to inventory
                     character.inventory.Add(character.armorWorn);
-
-                    character.armor = ArmorRating;
-                    character.armorWorn = this;
-
                 }
             }
-
+            character.armor = ArmorRating;
+            character.armorWorn = this;
+            character.inventory.Remove(this);
             return $"{character.name}, Equipped {Name}, which had {ArmorRating} Armor!";
         }
     }

@@ -16,7 +16,7 @@ namespace RogueLiteLoot.LootItems.Consumables
         {
             character.strength += Quality;
             NumberOfUses--;
-
+            if (NumberOfUses < 1) character.inventory.Remove(this);
             return $"Steak was eaten by {character.name}, and gave {Quality} strength!";
         }
     }

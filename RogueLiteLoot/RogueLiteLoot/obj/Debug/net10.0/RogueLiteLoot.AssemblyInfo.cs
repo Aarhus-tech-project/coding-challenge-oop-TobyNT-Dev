@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RogueLiteLoot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44dbaf62ce3e2b6ce8a69619a4d74922fdbd50c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+086058aace41e01a15cea7ab896f7778a28f5c0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RogueLiteLoot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RogueLiteLoot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

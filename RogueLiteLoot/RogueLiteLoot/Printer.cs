@@ -1,5 +1,6 @@
 ﻿using RogueLiteLoot.LootItems;
 using RogueLiteLoot.LootItems.Wearables;
+using RogueLiteLoot.LootItems.Wieldables;
 namespace RogueLiteLoot
 {
     public static class Printer
@@ -16,9 +17,9 @@ namespace RogueLiteLoot
             Console.SetCursorPosition(0, 3);
             Console.WriteLine($"Armor Worn: {(character.armorWorn == null ? "none" : character.armorWorn.Name)} ({character.armor} armor)");
             Console.SetCursorPosition(0, 4);
-            Console.WriteLine($"Cosmetic Outfit: {(character.cosmeticApparel == null ? "none" : character.cosmeticApparel.Name)}");
+            Console.WriteLine($"Cosmetic Outfit: {(character.cosmeticApparel == null ? "none" : character.cosmeticApparel.Name)} ({character.fashionRating} fashion rating)");
             Console.SetCursorPosition(0, 5);
-            Console.WriteLine($"Held Weapon: {(character.heldWeapon == null ? "none" : character.heldWeapon.Name)} ({(character.heldWeapon == null ? "none" : character.heldWeapon)})");
+            Console.WriteLine($"Held Weapon: {(character.heldWeapon == null ? "none" : character.heldWeapon.Name)}");
             Console.SetCursorPosition(0, 6);
             Console.WriteLine($"Melee Damage: {character.meleeDamage}");
             Console.SetCursorPosition(0, 7);
