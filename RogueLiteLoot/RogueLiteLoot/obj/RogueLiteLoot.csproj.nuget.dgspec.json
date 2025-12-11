@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj": {}
+    "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj": {
+    "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj",
+        "projectUniqueName": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj",
         "projectName": "RogueLiteLoot",
-        "projectPath": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj",
-        "packagesPath": "C:\\Users\\thymu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thymu\\Documents\\Repositories\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\obj\\",
+        "projectPath": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj",
+        "packagesPath": "C:\\Users\\tntde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\thymu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tntde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -31,6 +31,8 @@ namespace RogueLiteLoot
         public int rangedDamage = 0;
         public int magicDamage = 0;
 
+        public Wieldable baseMelee = new Fists(5);
+
         public Wieldable? heldWeapon = null;
 
         private Random rnd = new Random();
@@ -39,12 +41,14 @@ namespace RogueLiteLoot
         //temporary "dummy" method for displaying the player information
         public void StartUpdateCharacterLoop()
         {
+            // on start set base melee weapon as fists
+            Use(baseMelee);
             BloatCharacterInventory();
             Printer.UpdateStats(this, "");
             while (true)
             {
-                //open inventory
-                if(Console.ReadKey().Key == ConsoleKey.I)
+                //open the inventory
+                if (Console.ReadKey().Key == ConsoleKey.I)
                 {
                     Printer.ShowInventory(this);
 
@@ -107,11 +111,50 @@ namespace RogueLiteLoot
                             Use(inventory[9]);
                             break;
                     }
+                }
 
+                //Un-Equip Items
+                if (Console.ReadKey().Key == ConsoleKey.Delete)
+                {
+                    Printer.UpdateStats(this, "");
+
+                    Console.SetCursorPosition(0, 15);
+                    Console.WriteLine("Press Key to unequip: [A] Armor, [C] Cosmetic Outfit, [W] Weapon");
+
+                    ConsoleKey key = Console.ReadKey(true).Key;
+                    
+                    Loot? itemSelected = null;
+                    switch (key)
+                    {
+                        case ConsoleKey.Escape:
+                            Printer.UpdateStats(this, "");
+                            break;
+
+                        case ConsoleKey.A:
+                            itemSelected = UnEquip("armor");
+                            break;
+
+                        case ConsoleKey.C:
+                            itemSelected = UnEquip("cosmetic");
+                            break;
+
+                        case ConsoleKey.W:
+                            itemSelected = UnEquip("weapon");
+                            break;
+                    }
+                    if (itemSelected != null)
+                    {
+                        Printer.UpdateStats(this, $"{itemSelected.Name} was unequipped, and placed in the inventory.");
+                    }
+                    else
+                    {
+                        Printer.UpdateStats(this, "");
+                    }
                 }
             }
         }
 
+        //add lots of loot to the inventory
         private void BloatCharacterInventory()
         {
             inventory.Add(new HealingPotion(rnd.Next(1, 16)));
@@ -124,14 +167,66 @@ namespace RogueLiteLoot
             inventory.Add(new ElvenGreatsword(52));
             inventory.Add(new OrcishLongbow(18));
             inventory.Add(new TomeOfFireball(27));
-
         }
-
         public void Use(Loot loot)
         {
             string status = loot.ApplyEffect(this);
 
             Printer.UpdateStats(this, status);
+        }
+        public Loot UnEquip(string toUnequip)
+        {
+            Loot? itemUnequipped = null;
+            if (toUnequip == "armor" && armorWorn != null)
+            {
+                if (armorWorn == cosmeticApparel)
+                {
+                    itemUnequipped = armorWorn;
+
+                    cosmeticApparel = null;
+                    inventory.Add(armorWorn);
+                    armorWorn = null;
+                }
+                else
+                {
+                    itemUnequipped = armorWorn;
+
+
+                    inventory.Add(armorWorn);
+                    armorWorn = null;
+                }
+            }
+            if (toUnequip == "cosmetic" && cosmeticApparel != null)
+            {
+                if (cosmeticApparel == armorWorn)
+                {
+                    itemUnequipped = cosmeticApparel;
+
+
+                    armorWorn = null;
+                    inventory.Add(cosmeticApparel);
+                    cosmeticApparel = null;
+                }
+                else
+                {
+                    itemUnequipped = cosmeticApparel;
+
+
+                    inventory.Add(cosmeticApparel);
+                    cosmeticApparel = null;
+                }
+            }
+            if (toUnequip == "weapon" && heldWeapon != null)
+            {
+                itemUnequipped = heldWeapon;
+
+
+                inventory.Add(heldWeapon);
+                heldWeapon = null;
+
+                Use(baseMelee);
+            }
+            return itemUnequipped;
         }
     }
 }

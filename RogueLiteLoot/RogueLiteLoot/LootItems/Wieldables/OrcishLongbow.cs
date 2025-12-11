@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RogueLiteLoot.LootItems.Wieldables
 {
-    public class OrcishLongbow : MagicWeapon
+    public class OrcishLongbow : RangedWeapon
     {
         public OrcishLongbow(int Damage) : base(Damage)
         {
@@ -17,7 +17,14 @@ namespace RogueLiteLoot.LootItems.Wieldables
             // if player has something equipped, then move that back to inventory, and then equip
             if (character.heldWeapon != null)
             {
-                character.inventory.Add(character.heldWeapon);
+                if (character.heldWeapon is Fists)
+                {
+                    // do nothing & dont add fists to inventory
+                }
+                else
+                {
+                    character.inventory.Add(character.heldWeapon);
+                }
             }
             character.heldWeapon = this;
             character.inventory.Remove(this);

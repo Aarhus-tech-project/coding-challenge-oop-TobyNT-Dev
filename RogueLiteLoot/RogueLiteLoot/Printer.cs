@@ -30,10 +30,12 @@ namespace RogueLiteLoot
             Console.WriteLine($"Inventory has {character.inventory.Count()} items!");
             Console.SetCursorPosition(0, 10);
             Console.WriteLine($"Wallet Contains {character.goldCoins} Gold Coins!");
-            Console.SetCursorPosition(0, 14);
+            Console.SetCursorPosition(0, 12);
             Console.WriteLine($"{customItemText}");
             Console.SetCursorPosition(0, 15);
             Console.WriteLine($"Press [I] to open {character.name}'s inventory");
+            Console.SetCursorPosition(0, 16);
+            Console.WriteLine($"Press [Delete] to unequip an item.");
         }
         public static void ShowInventory(Character character)
         {

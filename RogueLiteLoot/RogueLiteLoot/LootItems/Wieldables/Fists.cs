@@ -4,11 +4,11 @@ using System.Text;
 
 namespace RogueLiteLoot.LootItems.Wieldables
 {
-    public class ElvenGreatsword : MeleeWeapon
+    public class Fists : MeleeWeapon
     {
-        public ElvenGreatsword(int Damage) : base(Damage)
+        public Fists(int Damage) : base(Damage)
         {
-            Name = "Elven Greatsword";
+            Name = "Fists";
             Action = "Equip";
         }
 
@@ -17,21 +17,14 @@ namespace RogueLiteLoot.LootItems.Wieldables
             // if player has something equipped, then move that back to inventory, and then equip
             if (character.heldWeapon != null)
             {
-                if (character.heldWeapon is Fists)
-                {
-                    // do nothing & dont add fists to inventory
-                }
-                else
-                {
-                    character.inventory.Add(character.heldWeapon);
-                }
+                character.inventory.Add(character.heldWeapon);
+                
             }
             character.heldWeapon = this;
-            character.inventory.Remove(this);
             character.meleeDamage = Damage;
             character.magicDamage = 0;
             character.rangedDamage = 0;
-            return $"{character.name} equipped the {Name} which has {Damage} Melee Damage!";
+            return $"{character.name} equipped their {Name} which has {Damage} Melee Damage!";
         }
     }
 }
