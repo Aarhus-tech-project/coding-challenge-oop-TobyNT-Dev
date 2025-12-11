@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\valuables\\glowingtalisman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\valuables\\glowingtalisman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\valuables\\mithrilorenugget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\valuables\\mithrilorenugget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\valuables\\valuable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\valuables\\valuable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wearables\\paddedringmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wearables\\paddedringmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wearables\\jestersuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wearables\\jestersuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wearables\\dwarvensteelarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wearables\\dwarvensteelarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wearables\\icosmeticclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wearables\\icosmeticclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wearables\\iarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wearables\\iarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wearables\\cosmeticclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wearables\\cosmeticclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wearables\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wearables\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wearables\\wearable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wearables\\wearable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wieldables\\tomeoffireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wieldables\\tomeoffireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wieldables\\magicweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wieldables\\magicweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wieldables\\fists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wieldables\\fists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wieldables\\orcishlongbow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wieldables\\orcishlongbow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wieldables\\elvengreatsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wieldables\\elvengreatsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wieldables\\rangedweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wieldables\\rangedweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wieldables\\meleeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wieldables\\meleeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\wieldables\\wieldable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\wieldables\\wieldable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\consumables\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\consumables\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\consumables\\steak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\consumables\\steak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\consumables\\consumable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\consumables\\consumable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\loot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\loot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\consumables\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\consumables\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\lootitems\\consumables\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\lootitems\\consumables\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|c:\\users\\tntde\\documents\\github\\coding-challenge-oop-tobynt-dev\\rogueliteloot\\rogueliteloot\\rogueliteloot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{603EEE8E-5FEB-2B18-43F2-E5A9037EA8F4}|RogueLiteLoot\\RogueLiteLoot.csproj|solutionrelative:rogueliteloot\\rogueliteloot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Character.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\Character.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Character.cs",
+              "RelativeToolTip": "RogueLiteLoot\\Character.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:38:51.586Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Printer.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\Printer.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Printer.cs",
+              "RelativeToolTip": "RogueLiteLoot\\Printer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:25:46.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JesterSuit.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\JesterSuit.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wearables\\JesterSuit.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\JesterSuit.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wearables\\JesterSuit.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:54:09.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DwarvenSteelArmor.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\DwarvenSteelArmor.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wearables\\DwarvenSteelArmor.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\DwarvenSteelArmor.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wearables\\DwarvenSteelArmor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:45:04.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaddedRingmail.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\PaddedRingmail.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wearables\\PaddedRingmail.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\PaddedRingmail.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wearables\\PaddedRingmail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:44:42.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Valuable.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Valuables\\Valuable.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Valuables\\Valuable.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Valuables\\Valuable.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Valuables\\Valuable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:10:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlowingTalisman.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Valuables\\GlowingTalisman.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Valuables\\GlowingTalisman.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Valuables\\GlowingTalisman.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Valuables\\GlowingTalisman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:14:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MithrilOreNugget.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Valuables\\MithrilOreNugget.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Valuables\\MithrilOreNugget.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Valuables\\MithrilOreNugget.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Valuables\\MithrilOreNugget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:06:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICosmeticClothing.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\ICosmeticClothing.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wearables\\ICosmeticClothing.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\ICosmeticClothing.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wearables\\ICosmeticClothing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:58:53.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IArmor.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\IArmor.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wearables\\IArmor.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\IArmor.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wearables\\IArmor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:58:02.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CosmeticClothing.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\CosmeticClothing.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wearables\\CosmeticClothing.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\CosmeticClothing.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wearables\\CosmeticClothing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:01:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\Armor.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wearables\\Armor.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\Armor.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wearables\\Armor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:59:18.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Wearable.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\Wearable.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wearables\\Wearable.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wearables\\Wearable.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wearables\\Wearable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:12:36.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TomeOfFireball.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\TomeOfFireball.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wieldables\\TomeOfFireball.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\TomeOfFireball.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wieldables\\TomeOfFireball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:19:59.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MagicWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\MagicWeapon.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wieldables\\MagicWeapon.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\MagicWeapon.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wieldables\\MagicWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:19:22.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Fists.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\Fists.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wieldables\\Fists.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\Fists.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wieldables\\Fists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:56:49.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrcishLongbow.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\OrcishLongbow.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wieldables\\OrcishLongbow.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\OrcishLongbow.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wieldables\\OrcishLongbow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:25:16.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ElvenGreatsword.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\ElvenGreatsword.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wieldables\\ElvenGreatsword.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\ElvenGreatsword.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wieldables\\ElvenGreatsword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:23:54.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RangedWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\RangedWeapon.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wieldables\\RangedWeapon.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\RangedWeapon.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wieldables\\RangedWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:18:58.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MeleeWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\MeleeWeapon.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wieldables\\MeleeWeapon.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\MeleeWeapon.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wieldables\\MeleeWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:17:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Wieldable.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\Wieldable.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Wieldables\\Wieldable.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Wieldables\\Wieldable.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Wieldables\\Wieldable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:12:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\Food.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Consumables\\Food.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\Food.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Consumables\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:41:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Steak.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\Steak.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Consumables\\Steak.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\Steak.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Consumables\\Steak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:11:46.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Consumable.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\Consumable.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Consumables\\Consumable.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\Consumable.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Consumables\\Consumable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:01:01.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Loot.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Loot.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Loot.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Loot.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Loot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:36:45.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Program.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\Program.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\Program.cs",
+              "RelativeToolTip": "RogueLiteLoot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:18:46.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HealingPotion.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\HealingPotion.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Consumables\\HealingPotion.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\HealingPotion.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Consumables\\HealingPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:48:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\Potion.cs",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\LootItems\\Consumables\\Potion.cs",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\LootItems\\Consumables\\Potion.cs",
+              "RelativeToolTip": "RogueLiteLoot\\LootItems\\Consumables\\Potion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:41:50.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RogueLiteLoot.csproj",
+              "DocumentMoniker": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj",
+              "RelativeDocumentMoniker": "RogueLiteLoot\\RogueLiteLoot.csproj",
+              "ToolTip": "C:\\Users\\tntde\\Documents\\GitHub\\coding-challenge-oop-TobyNT-Dev\\RogueLiteLoot\\RogueLiteLoot\\RogueLiteLoot.csproj",
+              "RelativeToolTip": "RogueLiteLoot\\RogueLiteLoot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T11:54:18.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
